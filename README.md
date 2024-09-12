@@ -24,7 +24,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 201,
@@ -61,7 +61,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 201,
@@ -102,7 +102,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 201,
@@ -139,7 +139,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   - page: page number (default: 1)
   - per page: results per page (default: 2)
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 200,
@@ -178,7 +178,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 200,
@@ -208,7 +208,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 200,
@@ -239,7 +239,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 200,
@@ -276,7 +276,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
   }
   ```
 - **Response**:
-  -*Success*
+  - *Success*
   ```json
   {
     "code": 200,
@@ -298,7 +298,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
     "status": "success"
   }
   ```
-  -*Failure*
+  - *Failure*
   ```json
   {
     "code": 400, 
