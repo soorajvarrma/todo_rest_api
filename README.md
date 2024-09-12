@@ -255,7 +255,7 @@ The API requires users to authenticate using a token. The `Add Posts` route is p
     "status": "success"
   }
   ```
-  -*Failure*
+  - *Failure*
   ```json
   {
     "code": 400, 
